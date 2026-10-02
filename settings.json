@@ -7,7 +7,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "spidermanog.aternos.me:48615",
+    "ip": "spidermanog.aternos.me",
     "port": 48615,
     "version": "1.21.1"
   },
